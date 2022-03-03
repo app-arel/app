@@ -1,0 +1,46 @@
+            body{
+                background-color: skyblue;
+                font-family: Helvetica;
+                color: snow;
+                font-size: large;
+                
+            }
+            header {
+                background-color: goldenrod;
+                padding:1px;
+                text-align: center;
+                font-size: 35px;
+                color: white;
+                font-family: Edwardian Script ITC;}
+
+            h1{color:whitesmoke; text-align:center; font-size: 100px;}
+            pre{
+                font-family: helvetica;
+            }
+            p{color:burlywood;}
+            a{
+                color: rgba(245, 245, 245, 0.637);
+                touch-action: double-tap-zoom;
+            }
+            a:hover{
+                color: rgba(255, 0, 0, 0.534);}
+            image:in-range{color:rgb(203, 140, 240);}
+            #msize 
+            {width: 400px;
+            }
+            #lsize 
+            {width: 600px;
+                text-align: center;
+            }
+            #D2WmM {
+                display: grid;
+                font-family: 'Google Sans',Roboto,Arial,sans-serif;
+                height: 100vh;
+                margin: auto;
+                max-width: 600px;
+                place-items: center center; }
+            #margin{
+                margin-left: 190px;
+                margin-right: 170px;
+            }
+           
